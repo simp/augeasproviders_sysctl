@@ -49,7 +49,7 @@ mkdir -p %{buildroot}/%{prefix}/%{mod_name}
 # Post uninstall stuff
 
 %changelog
-* Thu mar 10 2016 Trevor Vaughan <tvaughan@onyxpoint.com> - 2.1.0-0
+* Thu Mar 10 2016 Trevor Vaughan <tvaughan@onyxpoint.com> - 2.1.0-0
 - Updated to the latest version which adds the :silent option.
 
 * Wed Feb 18 2015 Trevor Vaughan <tvaughan@onyxpoint.com> - 2.0.1-0
